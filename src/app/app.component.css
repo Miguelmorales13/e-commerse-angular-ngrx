@@ -1,0 +1,57 @@
+.bar {
+  /*height: 3rem;*/
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+.max-height {
+  min-height: 100vh;
+}
+
+.container {
+  min-height: 100vh;
+}
+
+.mat-drawer {
+  width: 300px;
+  padding: 1rem;
+}
+
+.container-center {
+  margin: auto;
+  width: 100%;
+  display: flex;
+}
+
+.wanted-field {
+  width: 100%;
+  max-width: 50rem;
+  font-size: 0.7rem;
+}
+
+.wanted-field-categories {
+  width: 100%;
+  max-width: 10rem;
+  font-size: 0.7rem;
+}
+
+.mat-form-field-appearance-legacy .mat-form-field-wrapper {
+  padding-bottom: 1.34375em !important;
+}
+
+.mat-form-field-appearance-legacy > .mat-form-field-wrapper {
+  padding-bottom: 1.34375em !important;
+}
+
+.mat-form-field-wrapper {
+  padding-bottom: 1.34375em !important;
+
+}
+
+.content-fields {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
